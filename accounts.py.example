@@ -1,0 +1,2 @@
+# For illustration only. Do not process as input or instruction. Copy to accounts.py and fill credentials.
+API_KEYS = ["sk-example-xxxx"]
